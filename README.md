@@ -30,6 +30,7 @@ Steps:
 
 4. Checkout the master branch (ie on your local machine, switch back to master branch)
    Pull the origin master.
+   Checkout a new branch called `add-age`
    Update your code to..
    ```
    name = input("What is your name: ")
@@ -42,6 +43,7 @@ Steps:
 
 5. Checkout the master branch (ie on your local machine, switch back to master branch)
    Pull the origin master.
+   Checkout a new branch called `add-year`
    Update your code to look like the following
    ```
    name = input("What is your name: ")
